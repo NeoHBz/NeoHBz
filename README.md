@@ -1,11 +1,11 @@
 ### About Me
 - 💼 Hi, I'm Saurav, a Full-Stack Web Developer.
 
-- 💻  2 years of experience with MERN stack, from conceptualization to making of full-fledged web projects.
+- 💻  2 years of experience with MERN stack.
+
+- 🚀 [Visit my Portfolio here](https://fueler.io/neohbz).
 
 - 🤔 For any queries, [mail me](neohbz@gmail.com).
-
-- ⚡ Fun fact: I use tabs over spaces.
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
