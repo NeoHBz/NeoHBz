@@ -3,8 +3,6 @@
 
 - 💻  2 years of experience with MERN stack.
 
-- 🚀 [Visit my Portfolio here](https://fueler.io/neohbz).
-
 - 🤔 For any queries, [mail me](neohbz@gmail.com).
 
 ### My Skill Set  
