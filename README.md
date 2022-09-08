@@ -70,7 +70,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=neohbz&count_private=true&show_icons=true&hide=stars&theme=vue" width=350 height=120>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&hide=glsl,go&theme=vue&layout=compact" width=250 height=120>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&theme=vue&layout=compact" width=250 height=120>
 </div>
  
 <br/>
