@@ -5,6 +5,7 @@
 
 - 🤔 For any queries, [mail me](neohbz@gmail.com).
 
+- ❤️ I love [self hosting](https://github.com/NeoHBz/selfhosting) apps.
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -58,9 +59,9 @@
 <a href="https://github.com/NeoHBz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<!-- <a href="https://linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/sauravkrx/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> -->
+</a>
 <!-- <a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
 </a> 
@@ -70,7 +71,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=neohbz&count_private=true&show_icons=true&hide=stars&theme=vue" width=350 height=120>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&theme=vue&layout=compact" width=250 height=120>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&theme=vue&layout=compact&hide=go" width=250 height=120>
 </div>
  
 <br/>
