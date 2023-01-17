@@ -6,6 +6,10 @@
 - 🤔 For any queries, [mail me](mailto:neohbz@gmail.com).
 
 - ❤️ I love [self hosting](https://github.com/NeoHBz/selfhosting) apps.
+
+- ⚛️ Currently self hosting:
+    - Spotify Dashboard: [here](https://myspotify.neohbz.com)
+
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
