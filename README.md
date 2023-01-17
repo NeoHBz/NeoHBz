@@ -1,7 +1,7 @@
 ### About Me
 - 💼 Hi, I'm Saurav, a Full-Stack Web Developer.
 
-- 💻  2 years of experience with MERN stack.
+- 💻  3 years of experience with MERN stack.
 
 - 🤔 For any queries, [mail me](mailto:neohbz@gmail.com).
 
