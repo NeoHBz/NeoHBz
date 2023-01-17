@@ -3,7 +3,7 @@
 
 - 💻  2 years of experience with MERN stack.
 
-- 🤔 For any queries, [mail me](neohbz@gmail.com).
+- 🤔 For any queries, [mail me](mailto:neohbz@gmail.com).
 
 - ❤️ I love [self hosting](https://github.com/NeoHBz/selfhosting) apps.
 ### My Skill Set  
