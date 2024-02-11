@@ -3,10 +3,14 @@
 - 👋 Hi, I'm Saurav, a Full-Stack Web Developer.
 
 - 💻 3 years of experience with PERN stack.
+  - If you came here to see Contribution Graph, check:
+    - [GitLab account for Hyathi Technologies](http://gitlab.com/saurav-ht)
+
 
 - ❓For any queries, [mail me](mailto:neohbz@gmail.com).
 
 - <img width="18" height="18" src="https://img.icons8.com/fluency/240/spotify.png" alt="spotify"/> Spotify Dashboard: [here](https://myspotify.neohbz.com)
+
 
 ### My Skill Set
 
@@ -52,7 +56,12 @@
 
 </td></tr></table>
 
-<br/>
+### GitHub Live Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=neohbz&theme=transparent&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=vue" width=350 height=120>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&theme=transparent&include_all_commits=true&theme=vue&layout=compact&hide=go" width=250 height=120>
+</div>
 
 ### Connect with me
 
@@ -66,11 +75,4 @@
 <!-- <a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
 </a> 
-</div>
-
-### GitHub Live Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=neohbz&count_private=true&show_icons=true&hide=stars&theme=vue" width=350 height=120>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&theme=vue&layout=compact&hide=go" width=250 height=120>
 </div>
