@@ -5,15 +5,10 @@
 
 - 🤔 For any queries, [mail me](mailto:neohbz@gmail.com).
 
-- ❤️ I love [self hosting](https://github.com/NeoHBz/selfhosting) apps.
-
-- ⚛️ Currently self hosting:
-    - Spotify Dashboard: [here](https://myspotify.neohbz.com)
+- <img width="24" height="24" src="https://img.icons8.com/fluency/240/spotify.png" alt="spotify"/> Spotify Dashboard: [here](https://myspotify.neohbz.com)
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 #### Frontend  
 <div align="center">  
