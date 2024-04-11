@@ -3,13 +3,10 @@
 - 👋 Hi, I'm Saurav, a Full-Stack Web Developer.
 
 - 💻 3 years of experience with PERN stack.
-  - If you came here to see Contribution Graph, check:
+  - Contribution Graph? You can check the following:
     - [GitLab account for Hyathi Technologies](http://gitlab.com/saurav-ht)
 
-
 - ❓For any queries, [mail me](mailto:neohbz@gmail.com).
-
-- <img width="18" height="18" src="https://img.icons8.com/fluency/240/spotify.png" alt="spotify"/> Spotify Dashboard: [here](https://myspotify.neohbz.com)
 
 
 ### My Skill Set
