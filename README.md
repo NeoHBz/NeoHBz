@@ -2,12 +2,7 @@
 
 - 👋 Hi, I'm Saurav, a Full-Stack Web Developer.
 
-- 💻 3 years of experience with PERN stack.
-  - Contribution Graph? You can check the following:
-    - [GitLab account for Hyathi Technologies](http://gitlab.com/saurav-ht)
-
-- ❓For any queries, [mail me](mailto:neohbz@gmail.com).
-
+- 💻 3 years of professional experience with PERN stack.
 
 ### My Skill Set
 
@@ -53,22 +48,21 @@
 
 </td></tr></table>
 
-### GitHub Live Stats
+### GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=neohbz&theme=transparent&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=vue" width=350 height=120>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&theme=transparent&include_all_commits=true&theme=vue&layout=compact&hide=go" width=250 height=120>
+   <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=NeoHBz&theme=dark" height="200" width="450" />
 </div>
 
 ### Connect with me
 
-<div align="center">
-<a href="https://github.com/NeoHBz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/sauravkrx/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<div align="center">
+<!-- <a href="https://github.com/NeoHBz" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> -->
 <!-- <a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
 </a> 
