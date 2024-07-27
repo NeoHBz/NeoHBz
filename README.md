@@ -48,10 +48,14 @@
 
 </td></tr></table>
 
-### GitHub Stats
+### Stats 
 
 <div align="center">
    <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=NeoHBz&theme=dark" height="200" width="450" />
+</div>
+
+<div align="center">
+  <a href="https://wakatime.com/@3e81770b-4dd7-44f0-91ad-9cb16c2eb98f"><img src="https://wakatime.com/badge/user/3e81770b-4dd7-44f0-91ad-9cb16c2eb98f.svg" alt="Total time coded since Mar 23 2022" /></a>
 </div>
 
 ### Connect with me
