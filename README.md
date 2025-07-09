@@ -55,7 +55,9 @@
 </div>
 
 <div align="center">
-   <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&theme=vue&layout=compact&hide=go" width="450" height="200">
+  <a href="https://wakatime.com/">
+    <img height="300" width="450" src="https://wakatime.com/share/@NeoHBz/42a8757e-1f5c-43ca-9fe5-7c6bc2b47189.png" alt="WakaTime Stats" />
+  </a>
 </div>
 <div align="center">
    <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=NeoHBz&theme=dark" height="200" width="450" />
@@ -68,10 +70,5 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <div align="center">
-<!-- <a href="https://github.com/NeoHBz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> -->
-<!-- <a href="https://instagram.com/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
 </a> 
 </div>
