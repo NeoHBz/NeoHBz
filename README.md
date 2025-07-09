@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <a href="https://wakatime.com/">
+  <a href="https://wakatime.com/@NeoHBz">
     <img height="300" width="450" src="https://wakatime.com/share/@NeoHBz/42a8757e-1f5c-43ca-9fe5-7c6bc2b47189.png" alt="WakaTime Stats" />
   </a>
 </div>
