@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer | PERN Stack Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=3%2B+Years+of+Experience;Building+Scalable+Web+Applications;Passionate+About+Clean+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Applications;Passionate+About+Clean+Code)](https://git.io/typing-svg)
 
 </div>
 
